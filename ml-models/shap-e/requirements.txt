@@ -1,0 +1,8 @@
+# Shap-E Requirements
+torch>=2.1.0
+numpy>=1.26.0
+pillow>=10.2.0
+trimesh>=4.0.0
+
+# For actual Shap-E (uncomment when ready to use)
+# git+https://github.com/openai/shap-e.git
